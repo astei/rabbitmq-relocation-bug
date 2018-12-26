@@ -1,4 +1,4 @@
-This is the bare minimum program that triggers the issue.
+This is the bare minimum program that triggers [issue 436](https://github.com/rabbitmq/rabbitmq-java-client/issues/436).
 
 To reproduce:
 
